@@ -14,7 +14,8 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" src=".github/preview.png" width="100%">
+  <img alt="OriginSix" src="![image](https://user-images.githubusercontent.com/82723299/166511168-195156a4-c95a-4084-ae8d-7c3559703927.png)
+" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -50,4 +51,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
