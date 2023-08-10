@@ -14,6 +14,7 @@ img {
   height: auto;
 }
 
+
 ul {
   list-style: none;
 }
@@ -150,6 +151,10 @@ body {
   font: 700 1.31rem var(--title-font);
   color: var(--title-color);
 }
+.logo-urso{
+  width: 71px;
+}
+
 .logo span {
   color: var(--base-color);
 }
